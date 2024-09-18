@@ -1,4 +1,4 @@
-<p align="center"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=21&duration=1000&pause=1000&color=B627B3&center=true&vCenter=true&random=true&width=435&lines=Hi%2C+i'm+CatKali;A+little+Python+programmer"></a></p> 
+<p align="center"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=21&duration=1000&pause=1000&color=333cff&center=true&vCenter=true&random=true&width=435&lines=Hi%2C+i'm+CatKali;A+little+Python+programmer"></a></p> 
 
 <h2 align="center">🔧 My Skills</h2>
 
